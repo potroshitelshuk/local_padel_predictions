@@ -43,3 +43,7 @@ api_keys.json
 *.log
 logs/
 
+# Local reports / thesis drafts (not versioned)
+reports/
+report/
+
