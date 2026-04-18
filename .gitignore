@@ -1,8 +1,10 @@
 # Data
 data/raw/*
 data/processed/*
+data/features/*
 !data/raw/.gitkeep
 !data/processed/.gitkeep
+!data/features/.gitkeep
 
 # Models
 models/*
